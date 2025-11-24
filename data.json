@@ -1,0 +1,338 @@
+[
+    {
+        "titulo": "Fraude de PIX / Golpe de Engenharia Social",
+        "risco": "CRÍTICO",
+        "sintoma": "Transferi dinheiro ou tive a conta acessada por um golpista.",
+        "solucao": [
+            "1. Bloqueio Imediato: Contate seu banco (SAC/Ouvidoria) e solicite o bloqueio da transação (Mecanismo Especial de Devolução - MED).",
+            "2. Evidências: Guarde todos os comprovantes, prints e números de protocolo de atendimento do banco.",
+            "3. Troca de Senhas: Troque senhas de aplicativos de mensagem e e-mail imediatamente."
+        ],
+        "direito": "O Código de Defesa do Consumidor (CDC) exige que o banco atue para mitigar o dano, e o Banco Central regulamenta a devolução (MED).",
+        "linkOficial": {
+            "texto": "Registrar B.O. Eletrônico",
+            "url": "https://www.gov.br/pt-br/servicos/registrar-ocorrencia-policial"
+        },
+        "tags": ["golpe", "pix", "fraude", "banco", "engenharia"]
+    },
+    {
+        "titulo": "Vazamento de Dados Pessoais / Phishing",
+        "risco": "ALTO",
+        "sintoma": "Recebi um e-mail/SMS suspeito ou meus dados foram expostos em algum vazamento.",
+        "solucao": [
+            "1. NUNCA clique em links de fontes desconhecidas ou suspeitas (Phishing).",
+            "2. Troca de Senhas: Mude imediatamente senhas de alto valor (e-mail, bancos) e ative a Autenticação de Dois Fatores (2FA).",
+            "3. Revogação de Acesso: Verifique em suas contas (Google/Redes Sociais) quais apps têm permissão e revogue acessos estranhos."
+        ],
+        "direito": "A LGPD (Lei Geral de Proteção de Dados) garante que você tem direito a ser informado e a exigir esclarecimentos sobre o tratamento de seus dados.",
+        "linkOficial": {
+            "texto": "Consultar a Autoridade Nacional de Proteção de Dados (ANPD)",
+            "url": "https://www.gov.br/anpd/pt-br"
+        },
+        "tags": ["lgpd", "dados", "phishing", "vazamento", "email", "privacidade"]
+    },
+    {
+        "titulo": "Aparelho Lento e Travando (PC/Celular)",
+        "risco": "BAIXO",
+        "sintoma": "O dispositivo está lento, demora para abrir apps e congela.",
+        "solucao": [
+            "1. Reinicie: Muitas vezes, um simples 'reiniciar' resolve problemas de memória temporária.",
+            "2. Limpeza: Exclua arquivos grandes, fotos duplicadas e aplicativos não usados para liberar espaço.",
+            "3. Vírus/Malware: Faça uma varredura completa com um antivírus confiável para descartar infecções."
+        ],
+        "direito": "Embora não haja um direito digital específico para performance, a lentidão excessiva pode indicar falhas de hardware cobertas pela garantia.",
+        "linkOficial": {
+            "texto": "Consultar Central de Suporte do Fabricante",
+            "url": "https://www.google.com/search?q=suporte+t%C3%A9cnico+fabricante" 
+        },
+        "tags": ["lento", "travou", "performance", "otimização", "vírus"]
+    },
+    {
+        "titulo": "Perda ou Roubo de Celular",
+        "risco": "CRÍTICO",
+        "sintoma": "Meu celular foi roubado/perdido ou está inacessível.",
+        "solucao": [
+            "1. Bloqueio Remoto: Use as ferramentas de rastreamento (Encontre Meu Dispositivo/Buscar) para bloquear ou apagar o conteúdo.",
+            "2. Bloqueio do Chip (SIM): Contate sua operadora para bloquear o chip e evitar o uso de seu número em golpes.",
+            "3. Bloqueio IMEI: Peça o bloqueio do aparelho pelo número IMEI (anote-o antes!)."
+        ],
+        "direito": "A ANATEL permite o bloqueio do aparelho pelo IMEI. Você tem o direito de exigir o bloqueio imediato do seu chip.",
+        "linkOficial": {
+            "texto": "Consultar ANATEL (Bloqueio de IMEI)",
+            "url": "https://www.gov.br/anatel/pt-br" 
+        },
+        "tags": ["roubo", "perda", "celular", "bloqueio", "rastreamento", "imei"]
+    },
+    {
+        "titulo": "Direito de Arrependimento (Compra Online)",
+        "risco": "BAIXO",
+        "sintoma": "Fiz uma compra online, mas me arrependi e quero devolver.",
+        "solucao": [
+            "1. Prazo: Você tem 7 dias corridos a partir do recebimento para desistir da compra.",
+            "2. Formalize: Comunique a loja formalmente (e-mail, chat) e guarde a evidência da solicitação.",
+            "3. Devolução: O custo da devolução do produto deve ser arcado pelo vendedor."
+        ],
+        "direito": "O Código de Defesa do Consumidor (CDC), Art. 49, garante o Direito de Arrependimento em compras feitas fora do estabelecimento físico.",
+        "linkOficial": {
+            "texto": "Registrar Reclamação no Consumidor.gov.br",
+            "url": "https://www.consumidor.gov.br/"
+        },
+        "tags": ["compra", "devolução", "arrependimento", "online", "cdc"]
+    },
+    {
+        "titulo": "WhatsApp Clonado ou Invadido",
+        "risco": "CRÍTICO",
+        "sintoma": "Não consigo acessar meu WhatsApp ou ele está sendo usado por outra pessoa.",
+        "solucao": [
+            "1. Reinstale o App: Reinstale o WhatsApp no seu aparelho e tente o login. O invasor será desconectado.",
+            "2. Alerta Contatos: Use SMS ou ligação para avisar seus contatos que não devem responder a nenhuma mensagem sua no WhatsApp.",
+            "3. E-mail de Suporte: Envie um e-mail para o suporte do WhatsApp pedindo o bloqueio da conta."
+        ],
+        "direito": "O WhatsApp e as operadoras de telefonia têm responsabilidade em casos de falha na segurança do serviço.",
+        "linkOficial": {
+            "texto": "Enviar E-mail para Suporte do WhatsApp",
+            "url": "https://www.whatsapp.com/contact/"
+        },
+        "tags": ["whatsapp", "clonado", "invasão", "senha", "segurança"]
+    },
+    {
+        "titulo": "Criação de Senhas Fortes e Seguras",
+        "risco": "BAIXO",
+        "sintoma": "Preciso de dicas para criar senhas que não sejam facilmente descobertas.",
+        "solucao": [
+            "1. Tamanho: Use no mínimo 12 caracteres. Quanto maior, melhor.",
+            "2. Complexidade: Misture letras maiúsculas, minúsculas, números e símbolos.",
+            "3. Única: Nunca repita a mesma senha em diferentes serviços. Use um gerenciador de senhas."
+        ],
+        "direito": "A segurança da sua conta começa com você. A melhor proteção é a sua diligência.",
+        "linkOficial": {
+            "texto": "Dicas de Segurança da Informação (Gov.br)",
+            "url": "https://www.gov.br/cidadania/pt-br/assuntos/seguranca-da-informacao"
+        },
+        "tags": ["senha", "segurança", "dica", "proteção", "acesso"]
+    },
+    {
+        "titulo": "Uso e Ativação de Autenticação de Dois Fatores (2FA)",
+        "risco": "MÉDIO",
+        "sintoma": "Quero proteger minhas contas com uma camada extra de segurança.",
+        "solucao": [
+            "1. Ative: Sempre que possível, ative o 2FA (código enviado por SMS ou app) nas suas contas.",
+            "2. Apps: Prefira aplicativos autenticadores (Google Authenticator, Authy) em vez de SMS, pois SMS é mais vulnerável.",
+            "3. Backup: Guarde os códigos de backup em local seguro e offline."
+        ],
+        "direito": "A Lei de Proteção de Dados incentiva o uso de técnicas de segurança robustas, como a 2FA.",
+        "linkOficial": {
+            "texto": "Como Ativar 2FA no Google",
+            "url": "https://support.google.com/accounts/answer/46526?hl=pt"
+        },
+        "tags": ["2fa", "segurança", "login", "acesso", "duas etapas"]
+    },
+    {
+        "titulo": "Publicação de Conteúdo Ofensivo (Cyberbullying)",
+        "risco": "ALTO",
+        "sintoma": "Fui vítima de ataques, ofensas ou conteúdo falso publicado online.",
+        "solucao": [
+            "1. Documente: Tire prints e salve os links de todo o conteúdo ofensivo.",
+            "2. Denuncie: Denuncie o conteúdo diretamente na plataforma (Instagram, Twitter, etc.).",
+            "3. B.O.: Faça um Boletim de Ocorrência, pois pode ser crime de calúnia, difamação ou injúria."
+        ],
+        "direito": "O Marco Civil da Internet (Lei 12.965/14) e o Código Penal protegem contra crimes virtuais. A plataforma tem o dever de remover o conteúdo após ordem judicial.",
+        "linkOficial": {
+            "texto": "Registrar B.O. Eletrônico",
+            "url": "https://www.gov.br/pt-br/servicos/registrar-ocorrencia-policial"
+        },
+        "tags": ["cyberbullying", "ofensa", "crime", "lei", "denúncia"]
+    },
+    {
+        "titulo": "Problemas com Internet (Wi-Fi/Conexão Lenta)",
+        "risco": "BAIXO",
+        "sintoma": "A internet está lenta, caindo ou não conecta de jeito nenhum.",
+        "solucao": [
+            "1. Reinicie: Desligue o modem e o roteador da tomada por 5 minutos e ligue novamente.",
+            "2. Cabos: Verifique se todos os cabos estão conectados corretamente e firmes.",
+            "3. Teste: Faça um teste de velocidade (speed test) e compare com o que foi contratado."
+        ],
+        "direito": "Você tem o direito de receber o serviço de internet contratado. A ANATEL regula a qualidade.",
+        "linkOficial": {
+            "texto": "Realizar Teste de Velocidade (Recomendado ANATEL)",
+            "url": "https://www.anatel.gov.br/consumidor/saiba-mais/servicos-de-banda-larga-fixa/teste-de-velocidade"
+        },
+        "tags": ["internet", "wifi", "lenta", "conexão", "anatel"]
+    },
+    {
+        "titulo": "Restrição de Dados e Rastreamento (Cookies)",
+        "risco": "MÉDIO",
+        "sintoma": "Quero evitar que sites e aplicativos rastreiem meus hábitos de navegação.",
+        "solucao": [
+            "1. Limpeza: Limpe os cookies do navegador regularmente.",
+            "2. Navegação Anônima: Use o modo de navegação anônima (ou privada) para pesquisas sensíveis.",
+            "3. Permissões: Configure as permissões de privacidade no seu celular (localização, microfone) para cada app."
+        ],
+        "direito": "A LGPD garante o direito à autodeterminação informativa, ou seja, você decide o que será feito com seus dados pessoais.",
+        "linkOficial": {
+            "texto": "Saiba mais sobre a LGPD (Gov.br)",
+            "url": "https://www.gov.br/governodigital/pt-br/seguranca-e-privacidade/lei-geral-de-protecao-de-dados"
+        },
+        "tags": ["rastreamento", "cookies", "privacidade", "lgpd", "dados"]
+    },
+    {
+        "titulo": "Direito ao Esquecimento Digital",
+        "risco": "BAIXO",
+        "sintoma": "Há informações antigas e irrelevantes sobre mim na internet que quero remover.",
+        "solucao": [
+            "1. Contate a Fonte: Solicite a remoção do conteúdo diretamente ao site ou plataforma.",
+            "2. Buscadores: Solicite a remoção dos links aos buscadores (Google, Bing).",
+            "3. Judicial: Em alguns casos, pode ser necessária uma ordem judicial, especialmente se o conteúdo for verdadeiro, mas irrelevante e danoso."
+        ],
+        "direito": "Embora controverso no Brasil, há jurisprudência que permite a remoção de dados irrelevantes e desatualizados que causem sofrimento injusto.",
+        "linkOficial": {
+            "texto": "Regulamento Geral de Proteção de Dados (GDPR na UE)",
+            "url": "https://gdpr-info.eu/art-17-gdpr/" 
+        },
+        "tags": ["esquecimento", "remover", "links", "google", "privacidade"]
+    },
+    {
+        "titulo": "Cobrança Indevida ou Spam",
+        "risco": "MÉDIO",
+        "sintoma": "Recebendo ligações excessivas de telemarketing ou cobranças que não reconheço.",
+        "solucao": [
+            "1. Bloqueio: Bloqueie o número do remetente no seu celular.",
+            "2. Não Me Perturbe: Cadastre seu número nas plataformas de bloqueio de telemarketing.",
+            "3. Denúncia: Use o portal do Consumidor.gov.br para denunciar a prática abusiva."
+        ],
+        "direito": "O CDC proíbe cobrança vexatória. As empresas de telemarketing devem obedecer às regras do Não Me Perturbe.",
+        "linkOficial": {
+            "texto": "Cadastrar Telefone no Não Me Perturbe",
+            "url": "https://www.naomeperturbe.com.br/"
+        },
+        "tags": ["spam", "cobrança", "telemarketing", "cdc", "consumidor"]
+    },
+    {
+        "titulo": "Reembolso de Jogos ou Softwares Digitais",
+        "risco": "BAIXO",
+        "sintoma": "Comprei um jogo/software digital e quero o dinheiro de volta.",
+        "solucao": [
+            "1. Política: Consulte a política de reembolso da plataforma (Steam, App Store, Google Play), geralmente há prazos e limites de uso.",
+            "2. Arrependimento: Se a compra foi muito recente e o uso mínimo, invoque o Direito de Arrependimento (7 dias).",
+            "3. Falha: Se o produto não funcionar como prometido, formalize a reclamação por falha do serviço."
+        ],
+        "direito": "O CDC se aplica a produtos digitais. Você tem direito à troca ou devolução se o produto apresentar falha ou vício.",
+        "linkOficial": {
+            "texto": "Reclamação no Consumidor.gov.br",
+            "url": "https://www.consumidor.gov.br/"
+        },
+        "tags": ["reembolso", "jogos", "software", "devolução", "cdc"]
+    },
+    {
+        "titulo": "Acesso a Perfil em Rede Social Invadido",
+        "risco": "CRÍTICO",
+        "sintoma": "Minha conta no Instagram/Facebook/Twitter foi hackeada.",
+        "solucao": [
+            "1. Recuperação: Utilize o e-mail/celular de recuperação da plataforma imediatamente (opção 'Esqueci a Senha').",
+            "2. Amigos: Peça a um amigo para denunciar sua conta na plataforma como invadida.",
+            "3. Suporte: Envie um pedido de recuperação manual de conta para o suporte da rede social."
+        ],
+        "direito": "As plataformas devem ter mecanismos eficientes para a recuperação e bloqueio de contas invadidas.",
+        "linkOficial": {
+            "texto": "Central de Ajuda da Rede Social (Google)",
+            "url": "https://support.google.com/" 
+        },
+        "tags": ["hack", "invasão", "instagram", "facebook", "twitter", "senha"]
+    },
+    {
+        "titulo": "Contrato de Serviços Digitais Abusivo",
+        "risco": "MÉDIO",
+        "sintoma": "O termo de uso ou serviço do app/site tem cláusulas muito longas ou injustas.",
+        "solucao": [
+            "1. Leitura: Consulte a política de uso da plataforma. Termos muito longos podem ser prejudiciais.",
+            "2. Contestar: Se houver abuso evidente, conteste a cláusula na plataforma Consumidor.gov.br.",
+            "3. Consulta: Procure auxílio de um profissional ou órgão de defesa do consumidor para avaliar a legalidade."
+        ],
+        "direito": "O CDC protege o consumidor de cláusulas abusivas, mesmo em contratos digitais (adesão).",
+        "linkOficial": {
+            "texto": "Registrar Reclamação no Consumidor.gov.br",
+            "url": "https://www.consumidor.gov.br/"
+        },
+        "tags": ["contrato", "abusivo", "termos", "serviço", "cdc"]
+    },
+    {
+        "titulo": "Direito de Portabilidade de Dados",
+        "risco": "BAIXO",
+        "sintoma": "Quero migrar meus dados (fotos, histórico) de um serviço para outro.",
+        "solucao": [
+            "1. Ferramenta: Verifique se a plataforma oferece uma ferramenta de 'Exportação de Dados'.",
+            "2. Solicitação: Caso não haja ferramenta, solicite a portabilidade diretamente ao controlador dos dados.",
+            "3. Prazo: Aguarde o prazo legal para que os dados sejam fornecidos em formato interoperável."
+        ],
+        "direito": "A LGPD garante o direito à portabilidade, permitindo que você transfira seus dados para outro fornecedor de serviço.",
+        "linkOficial": {
+            "texto": "Saiba mais sobre a LGPD (Gov.br)",
+            "url": "https://www.gov.br/governodigital/pt-br/seguranca-e-privacidade/lei-geral-de-protecao-de-dados"
+        },
+        "tags": ["portabilidade", "dados", "lgpd", "migração", "exportar"]
+    },
+    {
+        "titulo": "Uso de Deepfakes e Imagens Falsas",
+        "risco": "CRÍTICO",
+        "sintoma": "Minha imagem ou voz está sendo usada em vídeos ou áudios falsos (deepfake).",
+        "solucao": [
+            "1. Evidência: Tire prints e salve o link. Não compartilhe o conteúdo.",
+            "2. Denúncia: Denuncie a postagem imediatamente à plataforma por uso indevido de imagem e manipulação.",
+            "3. Judicial: Busque auxílio jurídico e faça um B.O., pois é uma violação gravíssima de direitos."
+        ],
+        "direito": "O Código Civil protege o direito à imagem, e a divulgação de deepfakes maliciosos pode configurar crime.",
+        "linkOficial": {
+            "texto": "Registrar B.O. Eletrônico (Crime de Imagem)",
+            "url": "https://www.gov.br/pt-br/servicos/registrar-ocorrencia-policial"
+        },
+        "tags": ["deepfake", "imagem", "vídeo", "falso", "crime"]
+    },
+    {
+        "titulo": "Monitoramento no Trabalho (E-mail e PC)",
+        "risco": "MÉDIO",
+        "sintoma": "Tenho dúvidas sobre o que a empresa pode monitorar no meu computador de trabalho.",
+        "solucao": [
+            "1. Política: Consulte a política de uso de tecnologia da sua empresa (Termos de Uso de TI).",
+            "2. Pessoal: Evite usar o e-mail ou computador da empresa para assuntos estritamente pessoais ou ilegais.",
+            "3. Consciência: O empregador tem direito de monitorar ferramentas de trabalho, mas deve haver transparência."
+        ],
+        "direito": "O monitoramento deve ser feito com transparência e em conformidade com a LGPD e o Direito do Trabalho, que protege a privacidade.",
+        "linkOficial": {
+            "texto": "Consultar Legislação Trabalhista (CLT)",
+            "url": "https://www.tst.jus.br/" 
+        },
+        "tags": ["trabalho", "monitoramento", "empresa", "lgpd", "privacidade"]
+    },
+    {
+        "titulo": "Direito à Retificação de Dados Incorretos",
+        "risco": "BAIXO",
+        "sintoma": "Meus dados cadastrais (endereço, telefone) estão incorretos em um serviço online.",
+        "solucao": [
+            "1. Solicitação: Peça a correção dos dados diretamente ao serviço ou plataforma (SAC/Atendimento).",
+            "2. Prova: Forneça a documentação que comprove a informação correta.",
+            "3. Prazo: Exija um prazo para que a correção seja efetuada."
+        ],
+        "direito": "A LGPD garante o direito à retificação dos seus dados, se estiverem incompletos, inexatos ou desatualizados.",
+        "linkOficial": {
+            "texto": "Saiba mais sobre a LGPD (Gov.br)",
+            "url": "https://www.gov.br/governodigital/pt-br/seguranca-e-privacidade/lei-geral-de-protecao-de-dados"
+        },
+        "tags": ["retificação", "dados", "cadastro", "lgpd", "errado"]
+    },
+    {
+        "titulo": "Uso e Divulgação de Imagens de Terceiros",
+        "risco": "MÉDIO",
+        "sintoma": "Quero saber se posso usar fotos de outras pessoas ou de celebridades em meu projeto/site.",
+        "solucao": [
+            "1. Consentimento: Obtenha permissão expressa (por escrito) da pessoa retratada.",
+            "2. Direitos Autorais: Verifique os direitos de uso da imagem, mesmo que não haja pessoas (Creative Commons, bancos de imagem).",
+            "3. Uso Comercial: O uso comercial (venda/marketing) tem regras muito mais rígidas."
+        ],
+        "direito": "O direito à imagem e os direitos autorais protegem o indivíduo contra o uso indevido de sua figura e obras sem autorização.",
+        "linkOficial": {
+            "texto": "Guia de Direitos Autorais (Gov.br)",
+            "url": "https://www.gov.br/cultura/pt-br/assuntos/direito-autoral"
+        },
+        "tags": ["imagem", "fotos", "direitos autorais", "uso", "terceiros"]
+    }
+]

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SOS Cidadão Digital</title>
+    
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+
+    <header>
+        <h1>🆘 SOS Cidadão Digital</h1>
+        
+        <div class="search-container">
+            <input 
+                type="text" 
+                id="busca-input" 
+                placeholder="Ex: Golpe Pix, Senha Invadida, LGPD..."
+                onkeyup="buscarProtocolos(event)"
+                autofocus
+            >
+            <button id="botao-busca">
+                Buscar Soluções
+            </button>
+        </div>
+    </header>
+
+    <main id="container-protocolos">
+        <p style="text-align: center; margin-top: 3rem; color: var(--tertiary-color);">
+            Digite um problema ou tema (ex: 'fraude', 'senha', 'LGPD') no campo acima para iniciar a busca.
+        </p>
+    </main>
+    
+    <footer class="footer">
+        <div class="footer-location">
+            Desenvolvido na Imersão Dev Alura + Google Gemini
+        </div>
+        <ul class="footer-links">
+            <li><a href="https://github.com/seu-perfil/seu-repo" target="_blank">Código Fonte (GitHub)</a></li>
+            <li><a href="#">Termos de Uso</a></li>
+        </ul>
+    </footer>
+
+    <script src="script.js"></script> 
+</body>
+</html>
