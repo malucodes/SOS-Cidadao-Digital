@@ -1,6 +1,7 @@
 # SOS-Cidadao-Digital
 
-O SOS Cidadão Digital é uma ferramenta de consulta interativa desenvolvida em HTML, CSS e JavaScript.
+O SOS Cidadão Digital é uma ferramenta de consulta interativa desenvolvida em HTML, CSS e React.
+
 ​Seu propósito é transformar o pânico das crises online (golpes de PIX, vazamento de dados, fraudes) em solução imediata. O projeto utiliza o modelo de busca e cards para fornecer Protocolos de Ação Críticos que incluem:
 
 ​🛑 Passos Imediatos de solução.
